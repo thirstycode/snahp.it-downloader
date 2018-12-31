@@ -6,7 +6,7 @@ from time import time as timer
 from multiprocessing.pool import ThreadPool
 
 link = input("Enter link here => ")
-directory = input("Enter folder name ==>")
+directory = input("Enter folder name ==> ")
 
 start = timer()
 
